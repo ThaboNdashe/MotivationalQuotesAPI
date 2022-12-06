@@ -8,7 +8,7 @@ Firstname Lastname <author@asciidoctor.org>
 
 
 
-.Diagram
+
 image::{docdir}/src/main/resources/static/Diagram.png[Project Diagram.]
 
 
